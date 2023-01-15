@@ -10,6 +10,7 @@ This application allow customers to:
 3) View show description
 4) Check availability
 5) Reserve Tickets
+
 The information for the show description will be stored in a database 
 that can be accessed by the customers.
 
